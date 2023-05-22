@@ -1,0 +1,25 @@
+
+body{
+    text-align : center;
+    background : rgb(126, 151, 126);
+    border-width:2px;
+    border-style:solid;
+
+    border-color:#287EC7;
+
+    padding :10px 10px 0px 10px;
+    
+}
+h2{
+    ;
+    color : black;
+    padding :10px 20px 10px 20px;
+    text-align : center;
+}
+img {
+    align :center;
+}
+ul{
+    list-style-position: inside;
+}
+    
